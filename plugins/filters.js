@@ -88,7 +88,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention
 
         }
 
-const array = ['left','lol','nanban','okey','poda','point','Power','sedlyf','thall','Tnx','Uyir','vannu','veeran','Vincent','name e>
+const array = ['hi','halo','ok','okey','poda','point','Power','sedlyf','thall','Tnx','Uyir','vannu','chunk','Vincent','name e>
 
 array.map( async (a) => {
 
